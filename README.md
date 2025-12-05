@@ -32,6 +32,7 @@ This repository is part of my effort to strengthen data structures, algorithms, 
 ## Array
 |  |
 | ------- |
+| [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [3028-ant-on-the-boundary](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/3028-ant-on-the-boundary) |
 ## Simulation
 |  |
