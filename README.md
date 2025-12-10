@@ -35,6 +35,7 @@ This repository is part of my effort to strengthen data structures, algorithms, 
 | [1816-truncate-sentence](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/1816-truncate-sentence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
+| [2706-buy-two-chocolates](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/2706-buy-two-chocolates) |
 | [3028-ant-on-the-boundary](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/3028-ant-on-the-boundary) |
 ## Simulation
 |  |
@@ -59,8 +60,13 @@ This repository is part of my effort to strengthen data structures, algorithms, 
 |  |
 | ------- |
 | [2089-find-target-indices-after-sorting-array](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2706-buy-two-chocolates](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/2706-buy-two-chocolates) |
 ## Counting
 |  |
 | ------- |
 | [2833-furthest-point-from-origin](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/2833-furthest-point-from-origin) |
+## Greedy
+|  |
+| ------- |
+| [2706-buy-two-chocolates](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/2706-buy-two-chocolates) |
 <!---LeetCode Topics End-->
