@@ -55,6 +55,7 @@ This repository is part of my effort to strengthen data structures, algorithms, 
 ## Binary Search
 |  |
 | ------- |
+| [0367-valid-perfect-square](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/0367-valid-perfect-square) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Sorting
 |  |
@@ -69,4 +70,8 @@ This repository is part of my effort to strengthen data structures, algorithms, 
 |  |
 | ------- |
 | [2706-buy-two-chocolates](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/2706-buy-two-chocolates) |
+## Math
+|  |
+| ------- |
+| [0367-valid-perfect-square](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/0367-valid-perfect-square) |
 <!---LeetCode Topics End-->
