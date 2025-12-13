@@ -74,4 +74,12 @@ This repository is part of my effort to strengthen data structures, algorithms, 
 |  |
 | ------- |
 | [0367-valid-perfect-square](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/0367-valid-perfect-square) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/0191-number-of-1-bits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
