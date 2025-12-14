@@ -73,6 +73,7 @@ This repository is part of my effort to strengthen data structures, algorithms, 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/0070-climbing-stairs) |
 | [0367-valid-perfect-square](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/0367-valid-perfect-square) |
 ## Divide and Conquer
 |  |
@@ -82,4 +83,12 @@ This repository is part of my effort to strengthen data structures, algorithms, 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/0191-number-of-1-bits) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
