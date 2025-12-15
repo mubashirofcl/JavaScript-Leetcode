@@ -32,6 +32,7 @@ This repository is part of my effort to strengthen data structures, algorithms, 
 ## Array
 |  |
 | ------- |
+| [0704-binary-search](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/0704-binary-search) |
 | [1816-truncate-sentence](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/1816-truncate-sentence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
@@ -56,6 +57,7 @@ This repository is part of my effort to strengthen data structures, algorithms, 
 |  |
 | ------- |
 | [0367-valid-perfect-square](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/0367-valid-perfect-square) |
+| [0704-binary-search](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/0704-binary-search) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Sorting
 |  |
