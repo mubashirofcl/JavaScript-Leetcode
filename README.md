@@ -43,6 +43,7 @@ This repository is part of my effort to strengthen data structures, algorithms, 
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/0657-robot-return-to-origin) |
+| [1688-count-of-matches-in-tournament](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [3028-ant-on-the-boundary](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/3028-ant-on-the-boundary) |
 ## Prefix Sum
 |  |
@@ -79,6 +80,7 @@ This repository is part of my effort to strengthen data structures, algorithms, 
 | ------- |
 | [0070-climbing-stairs](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/0070-climbing-stairs) |
 | [0367-valid-perfect-square](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/0367-valid-perfect-square) |
+| [1688-count-of-matches-in-tournament](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/1688-count-of-matches-in-tournament) |
 ## Divide and Conquer
 |  |
 | ------- |
