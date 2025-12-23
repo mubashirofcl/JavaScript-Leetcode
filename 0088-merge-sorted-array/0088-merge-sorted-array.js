@@ -9,20 +9,21 @@ var merge = function (nums1, m, nums2, n) {
     let result1 = [];
     let result2 = [];
 
-
     for (let i = 0; i < m; i++) {
-        result1[i] = nums1[i]
+        result1[i] = nums1[i];
     }
+
     for (let j = 0; j < n; j++) {
         result2[j] = nums2[j]
     }
 
-    let ans = [...result1,...result2]
-    let res = ans.sort((a,b)=> a-b)
-    for(let k = 0;k<res.length;k++){
-        nums1[k] = res[k]
+    let merge = [...result1, ...result2];
+    let ans = merge.sort((a, b) => a - b);
+
+    for(let k = 0;k<ans.length;k++){
+        nums1[k] = ans[k]
     }
 
-    return  nums1
+    return nums1
 
 };
