@@ -40,6 +40,7 @@ This repository is part of my effort to strengthen data structures, algorithms, 
 | [2089-find-target-indices-after-sorting-array](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2706-buy-two-chocolates](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/2706-buy-two-chocolates) |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [3028-ant-on-the-boundary](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/3028-ant-on-the-boundary) |
 ## Simulation
 |  |
@@ -58,6 +59,7 @@ This repository is part of my effort to strengthen data structures, algorithms, 
 | [0657-robot-return-to-origin](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/0657-robot-return-to-origin) |
 | [1816-truncate-sentence](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/1816-truncate-sentence) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2833-furthest-point-from-origin](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/2833-furthest-point-from-origin) |
 ## Binary Search
 |  |
