@@ -40,6 +40,7 @@ This repository is part of my effort to strengthen data structures, algorithms, 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
+| [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2706-buy-two-chocolates](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/2706-buy-two-chocolates) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [3028-ant-on-the-boundary](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/3028-ant-on-the-boundary) |
@@ -74,6 +75,7 @@ This repository is part of my effort to strengthen data structures, algorithms, 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/0088-merge-sorted-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2706-buy-two-chocolates](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/2706-buy-two-chocolates) |
 ## Counting
 |  |
@@ -109,4 +111,9 @@ This repository is part of my effort to strengthen data structures, algorithms, 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/0088-merge-sorted-array) |
+| [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+## Hash Table
+|  |
+| ------- |
+| [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 <!---LeetCode Topics End-->
