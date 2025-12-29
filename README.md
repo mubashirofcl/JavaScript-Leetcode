@@ -35,6 +35,7 @@ This repository is part of my effort to strengthen data structures, algorithms, 
 | [0035-search-insert-position](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/0088-merge-sorted-array) |
 | [0704-binary-search](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/0704-binary-search) |
+| [1313-decompress-run-length-encoded-list](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/1313-decompress-run-length-encoded-list) |
 | [1816-truncate-sentence](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/1816-truncate-sentence) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
