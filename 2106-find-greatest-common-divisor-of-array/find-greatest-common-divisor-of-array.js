@@ -12,6 +12,5 @@ var findGCD = function (nums) {
             gcd = i;
         }
     }
-
     return gcd;
 };
