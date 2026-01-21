@@ -63,6 +63,7 @@ This repository is part of my effort to strengthen data structures, algorithms, 
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1816-truncate-sentence](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/1816-truncate-sentence) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2264-largest-3-same-digit-number-in-string](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2833-furthest-point-from-origin](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/2833-furthest-point-from-origin) |
 ## Binary Search
