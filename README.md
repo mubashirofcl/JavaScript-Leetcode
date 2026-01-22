@@ -62,6 +62,7 @@ This repository is part of my effort to strengthen data structures, algorithms, 
 | [0657-robot-return-to-origin](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/0657-robot-return-to-origin) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1816-truncate-sentence](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/1816-truncate-sentence) |
+| [1903-largest-odd-number-in-string](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
@@ -88,6 +89,7 @@ This repository is part of my effort to strengthen data structures, algorithms, 
 |  |
 | ------- |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1903-largest-odd-number-in-string](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2706-buy-two-chocolates](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/2706-buy-two-chocolates) |
 ## Math
 |  |
@@ -95,6 +97,7 @@ This repository is part of my effort to strengthen data structures, algorithms, 
 | [0070-climbing-stairs](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/0070-climbing-stairs) |
 | [0367-valid-perfect-square](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/0367-valid-perfect-square) |
 | [1688-count-of-matches-in-tournament](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/1688-count-of-matches-in-tournament) |
+| [1903-largest-odd-number-in-string](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Divide and Conquer
 |  |
