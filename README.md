@@ -45,6 +45,7 @@ This repository is part of my effort to strengthen data structures, algorithms, 
 | [2706-buy-two-chocolates](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/2706-buy-two-chocolates) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [3028-ant-on-the-boundary](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/3028-ant-on-the-boundary) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Simulation
 |  |
 | ------- |
@@ -99,6 +100,7 @@ This repository is part of my effort to strengthen data structures, algorithms, 
 | [1688-count-of-matches-in-tournament](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [1903-largest-odd-number-in-string](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Divide and Conquer
 |  |
 | ------- |
