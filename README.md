@@ -37,6 +37,7 @@ This repository is part of my effort to strengthen data structures, algorithms, 
 | [0088-merge-sorted-array](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/0088-merge-sorted-array) |
 | [0704-binary-search](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/0704-binary-search) |
 | [1313-decompress-run-length-encoded-list](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/1313-decompress-run-length-encoded-list) |
+| [1534-count-good-triplets](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/1534-count-good-triplets) |
 | [1816-truncate-sentence](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/1816-truncate-sentence) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -132,4 +133,8 @@ This repository is part of my effort to strengthen data structures, algorithms, 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Enumeration
+|  |
+| ------- |
+| [1534-count-good-triplets](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/1534-count-good-triplets) |
 <!---LeetCode Topics End-->
