@@ -33,6 +33,7 @@ This repository is part of my effort to strengthen data structures, algorithms, 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/0088-merge-sorted-array) |
 | [0704-binary-search](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/0704-binary-search) |
 | [1313-decompress-run-length-encoded-list](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/1313-decompress-run-length-encoded-list) |
@@ -95,6 +96,7 @@ This repository is part of my effort to strengthen data structures, algorithms, 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/0070-climbing-stairs) |
 | [0367-valid-perfect-square](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/0367-valid-perfect-square) |
 | [1688-count-of-matches-in-tournament](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/1688-count-of-matches-in-tournament) |
