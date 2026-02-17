@@ -45,6 +45,7 @@ This repository is part of my effort to strengthen data structures, algorithms, 
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2706-buy-two-chocolates](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/2706-buy-two-chocolates) |
+| [2788-split-strings-by-separator](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/2788-split-strings-by-separator) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [3028-ant-on-the-boundary](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/3028-ant-on-the-boundary) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
@@ -68,6 +69,7 @@ This repository is part of my effort to strengthen data structures, algorithms, 
 | [1903-largest-odd-number-in-string](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/2264-largest-3-same-digit-number-in-string) |
+| [2788-split-strings-by-separator](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/2788-split-strings-by-separator) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2833-furthest-point-from-origin](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/2833-furthest-point-from-origin) |
 ## Binary Search
