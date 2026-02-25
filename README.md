@@ -44,6 +44,7 @@ This repository is part of my effort to strengthen data structures, algorithms, 
 | [2089-find-target-indices-after-sorting-array](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [2540-minimum-common-value](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/2540-minimum-common-value) |
 | [2706-buy-two-chocolates](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/2706-buy-two-chocolates) |
 | [2788-split-strings-by-separator](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/2788-split-strings-by-separator) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
@@ -79,6 +80,7 @@ This repository is part of my effort to strengthen data structures, algorithms, 
 | [0367-valid-perfect-square](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/0704-binary-search) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2540-minimum-common-value](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/2540-minimum-common-value) |
 ## Sorting
 |  |
 | ------- |
@@ -127,10 +129,12 @@ This repository is part of my effort to strengthen data structures, algorithms, 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/0088-merge-sorted-array) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [2540-minimum-common-value](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/2540-minimum-common-value) |
 ## Hash Table
 |  |
 | ------- |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [2540-minimum-common-value](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/2540-minimum-common-value) |
 ## Number Theory
 |  |
 | ------- |
