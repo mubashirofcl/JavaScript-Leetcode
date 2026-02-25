@@ -64,6 +64,7 @@ This repository is part of my effort to strengthen data structures, algorithms, 
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/0058-length-of-last-word) |
 | [0657-robot-return-to-origin](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/0657-robot-return-to-origin) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1816-truncate-sentence](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/1816-truncate-sentence) |
