@@ -109,6 +109,7 @@ This repository is part of my effort to strengthen data structures, algorithms, 
 | [1688-count-of-matches-in-tournament](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [1903-largest-odd-number-in-string](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2769-find-the-maximum-achievable-number](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/2769-find-the-maximum-achievable-number) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Divide and Conquer
 |  |
