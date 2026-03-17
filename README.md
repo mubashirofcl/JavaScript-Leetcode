@@ -68,6 +68,7 @@ This repository is part of my effort to strengthen data structures, algorithms, 
 | [0058-length-of-last-word](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/0058-length-of-last-word) |
 | [0657-robot-return-to-origin](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/0657-robot-return-to-origin) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1816-truncate-sentence](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/1816-truncate-sentence) |
 | [1903-largest-odd-number-in-string](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -93,6 +94,7 @@ This repository is part of my effort to strengthen data structures, algorithms, 
 ## Counting
 |  |
 | ------- |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [2833-furthest-point-from-origin](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/2833-furthest-point-from-origin) |
 ## Greedy
 |  |
@@ -136,6 +138,7 @@ This repository is part of my effort to strengthen data structures, algorithms, 
 ## Hash Table
 |  |
 | ------- |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2540-minimum-common-value](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/2540-minimum-common-value) |
 ## Number Theory
