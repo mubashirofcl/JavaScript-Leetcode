@@ -35,6 +35,7 @@ This repository is part of my effort to strengthen data structures, algorithms, 
 | [0035-search-insert-position](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/0088-merge-sorted-array) |
+| [0643-maximum-average-subarray-i](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/0704-binary-search) |
 | [1313-decompress-run-length-encoded-list](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/1313-decompress-run-length-encoded-list) |
 | [1534-count-good-triplets](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/1534-count-good-triplets) |
@@ -144,4 +145,8 @@ This repository is part of my effort to strengthen data structures, algorithms, 
 |  |
 | ------- |
 | [1534-count-good-triplets](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/1534-count-good-triplets) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
