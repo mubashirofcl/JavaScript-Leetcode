@@ -35,6 +35,7 @@ This repository is part of my effort to strengthen data structures, algorithms, 
 | [0035-search-insert-position](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/0088-merge-sorted-array) |
+| [0414-third-maximum-number](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/0414-third-maximum-number) |
 | [0643-maximum-average-subarray-i](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/0704-binary-search) |
 | [1313-decompress-run-length-encoded-list](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/1313-decompress-run-length-encoded-list) |
@@ -88,6 +89,7 @@ This repository is part of my effort to strengthen data structures, algorithms, 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/0088-merge-sorted-array) |
+| [0414-third-maximum-number](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/0414-third-maximum-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2706-buy-two-chocolates](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/2706-buy-two-chocolates) |
