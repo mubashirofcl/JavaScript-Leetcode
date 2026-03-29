@@ -171,4 +171,12 @@ This repository is part of my effort to strengthen data structures, algorithms, 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
