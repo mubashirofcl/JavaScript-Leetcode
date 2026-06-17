@@ -67,6 +67,7 @@ This repository is part of my effort to strengthen data structures, algorithms, 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/0058-length-of-last-word) |
+| [0187-repeated-dna-sequences](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0657-robot-return-to-origin](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/0657-robot-return-to-origin) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
@@ -122,6 +123,7 @@ This repository is part of my effort to strengthen data structures, algorithms, 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0191-number-of-1-bits](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/0191-number-of-1-bits) |
 ## Dynamic Programming
 |  |
@@ -140,6 +142,7 @@ This repository is part of my effort to strengthen data structures, algorithms, 
 ## Hash Table
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2540-minimum-common-value](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/2540-minimum-common-value) |
@@ -154,6 +157,7 @@ This repository is part of my effort to strengthen data structures, algorithms, 
 ## Sliding Window
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0643-maximum-average-subarray-i](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/0643-maximum-average-subarray-i) |
 ## Tree
 |  |
@@ -183,4 +187,12 @@ This repository is part of my effort to strengthen data structures, algorithms, 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/0206-reverse-linked-list) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
