@@ -32,6 +32,7 @@ This repository is part of my effort to strengthen data structures, algorithms, 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/0088-merge-sorted-array) |
@@ -143,6 +144,7 @@ This repository is part of my effort to strengthen data structures, algorithms, 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/0001-two-sum) |
 | [0187-repeated-dna-sequences](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/mubashirofcl/JavaScript-Leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
